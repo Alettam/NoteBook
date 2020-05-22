@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="inputNote">Введите текст</string>
+    <string name="save">Сохранить</string>
+</resources>
